@@ -1,6 +1,6 @@
 {
   "name": "learn-heroku",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "dependencies": {
     "hapi": "^16.1.0"
   },
